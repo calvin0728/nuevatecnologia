@@ -1,2 +1,2 @@
-segundo codigo se hace prueba
-se modifica y el estado cambia de A a M
+se borraron 2 codigos de linea
+se crean 2 nuevos en reemplazo
